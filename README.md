@@ -38,9 +38,8 @@
 
 ## 📫 How to reach me
 
-- 📧 drishya@email.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- 🌐 [Portfolio](https://yourportfolio.com) (optional)
+- 📧 drishyachuke98@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/drishya-chuke-804919195/)  
 
 ---
 
@@ -56,8 +55,3 @@ I’m actively looking for opportunities in **Data Science, Machine Learning, an
 Feel free to connect or collaborate — I love working on meaningful problems with curious minds!
 
 ---
-
-## 📍 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drishya123&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drishya123&layout=compact)
