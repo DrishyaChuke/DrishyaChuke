@@ -2,7 +2,7 @@
 
 🎓 **Master’s in Data Science | UTS, Sydney**  
 💻 **Aspiring Data Scientist | ML & AI Enthusiast**  
-🌏 **Currently in Australia, open to global opportunities**
+🌏 **Currently in Sydney, Australia, open to global opportunities**
 
 ---
 
@@ -20,19 +20,16 @@
 **Languages:** Python, SQL, R  
 **ML & DL:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Prophet  
 **Data Engineering:** SQL, Airflow, DBT, PostgreSQL  
-**Tools:** Jupyter, VSCode, Git, Docker, FastAPI, Streamlit  
+**Tools:** Jupyter, VSCode, Git, Docker, FastAPI, Streamlit, Excel, Tableau   
 **Cloud:** Azure, GCP basics, Render, Snowflake
 
 ---
 
 ## 🔬 Recent Projects
 
-- 📈 **Sales Forecasting API** — XGBoost + Prophet, deployed with FastAPI & Streamlit [🔗](#)
-- 🤖 **NBA Draft Prediction** — Kaggle AUC competition, feature engineering & ensemble models [🔗](#)
-- 📰 **Fake News Detector** — NLP pipeline with custom T5 transformer, REST API & web UI [🔗](#)
-- 🧭 **IoT Fall Detection** — Real-time sensor data processing, swarm learning, emergency alert system [🔗](#)
-
-*(See pinned repos below for more)*
+- **IoT Fall Detection** — Real-time sensor data processing, swarm learning, emergency alert system [🔗](https://github.com/ronydebnath/ilab-group-12-1-fall-detection)
+- **Sales Forecasting API** — XGBoost + Prophet, deployed with FastAPI & Streamlit [🔗](https://github.com/DrishyaChuke/Sales-Forecasting-API)
+- **Flight Fare Prediction** — Predicts flight fare based on user inputs with options to use four ML models [🔗](https://github.com/DrishyaChuke/Flight-Fare-Prediction)
 
 ---
 
