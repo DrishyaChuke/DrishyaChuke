@@ -17,8 +17,8 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, R  
-**ML & DL:** scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM, Prophet  
+**Languages:** Python, SQL  
+**ML & DL:** Regression, Classification, CNN, TensorFlow, PyTorch. 
 **Data Engineering:** SQL, Airflow, DBT, PostgreSQL  
 **Tools:** Jupyter, VSCode, Git, Docker, FastAPI, Streamlit, Excel, Tableau   
 **Cloud:** Azure, GCP basics, Render, Snowflake
